@@ -1,5 +1,6 @@
 path: ./Data
 train: Images/Train 
+val: Images/Train
 
 names:
   0: in_between_smooth
