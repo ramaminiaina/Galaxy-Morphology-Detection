@@ -1,5 +1,9 @@
-path: ./data
-train: images/train 
+path: ./Data
+train: Images/Train 
 
-nc: 1
-names: ['book']
+names:
+  0: in_between_smooth
+  1: edge_on
+  2: cigar_shape
+  3: spiral_shape
+  4: completely_round_smooth
