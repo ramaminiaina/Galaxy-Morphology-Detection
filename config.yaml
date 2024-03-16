@@ -1,4 +1,4 @@
-path: /kaggle/working/Galaxy-Morphology-Detection/Data
+path: /content/Galaxy-Morphology-Detection/Data
 train: Images/Train 
 val: Images/Train
 
