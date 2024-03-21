@@ -1,10 +1,13 @@
 path: /content/Galaxy-Morphology-Detection/Data
 train: Images/Train 
-val: Images/Train
+val: Images/Val
+test: Images/Test
 
 names:
-  0: in_between_smooth
-  1: edge_on
-  2: cigar_shape
-  3: spiral_shape
-  4: completely_round_smooth
+    - in_between_smooth
+    - edge_on
+    - cigar_shape
+    - spiral_shape
+    - completely_round_smooth
+
+nc: 5
