@@ -1,3 +1,2 @@
 completely_round_smooth 0.427500 0.904965 0.254906 0.166675
-completely_round_smooth
 completely_round_smooth 0.460837 0.487300 0.309788 0.256863

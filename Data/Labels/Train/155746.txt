@@ -1,3 +1,2 @@
 in_between_smooth 0.523031 0.488750 0.426722 0.358160
-in_between_smooth
 in_between_smooth 0.798455 0.294906 0.225778 0.303774
