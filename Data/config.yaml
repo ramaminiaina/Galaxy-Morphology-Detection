@@ -1,4 +1,3 @@
-path: /content/Galaxy-Morphology-Detection/Data
 train: Images/Train 
 val: Images/Val
 test: Images/Test
