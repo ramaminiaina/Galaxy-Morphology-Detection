@@ -1,0 +1,12 @@
+train: Train/images 
+val: Val/images
+test: Test/images
+
+names:
+    - in_between_smooth
+    - edge_on
+    - cigar_shape
+    - spiral_shape
+    - completely_round_smooth
+
+nc: 5
