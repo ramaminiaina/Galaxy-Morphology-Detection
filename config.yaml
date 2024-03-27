@@ -1,6 +1,6 @@
-train: Images/Train 
-val: Images/Val
-test: Images/Test
+train: Train/images
+val: Val/images
+test: Test/images
 
 names:
     - in_between_smooth
