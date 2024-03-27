@@ -1,3 +1,4 @@
+path: /kaggle/working/datasets/Galaxy-Morphology-Detection/
 train: Images/Train 
 val: Images/Val
 test: Images/Test
